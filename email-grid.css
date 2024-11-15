@@ -1,0 +1,18 @@
+.my-container {
+    border: 4px solid blue;
+    height:100vb;
+}
+.top-height {
+    height: 7vb;
+    border: 2px solid red;
+    
+}
+
+.my-col {
+    border: 2px solid blue;
+    height: 7vb;
+}
+.my-col2 {
+    border: 2px solid green;
+    height: 85vb;
+}
